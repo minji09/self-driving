@@ -1,6 +1,11 @@
 # README
-차량지능기초
-1 autonomous driving perception report
-1.1 autonomous driving perception dataset
-1.2 autonomous driving perception open source 
-1.3 excution open source
+# 차량지능기초
+---
+### autonomous driving perception report
+* autonomous driving perception dataset
+* autonomous driving perception open source 
+* excution open source
+---
+### pretrained_model classification
+* AlexNet , VGG16 , ResNet18 , GoogLeNet model summary
+* pretrained model classification with imagenet
